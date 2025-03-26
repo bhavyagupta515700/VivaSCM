@@ -1,2 +1,1 @@
-# viva
-viva
+This project demonstrates basic git commands.
