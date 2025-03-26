@@ -1,1 +1,1 @@
-This project demonstrates basic git commands.
+This is my version of the README.
